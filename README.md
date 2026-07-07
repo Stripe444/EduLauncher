@@ -19,7 +19,7 @@ A Working  Minecraft Education Account
 
 Git installed (You use git bash to run it)
 
-Python installed
+Python 3.13 installed
 
 And a valid internet connection!
 
